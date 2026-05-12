@@ -17,7 +17,8 @@ This repository contains the Transmiter firmware project.
 ├── CMakeLists.txt          # Build system configuration
 ├── dependencies.lock       # Dependency lock file for reproducible builds
 ├── platformio.ini          # Core PlatformIO configuration
-└── readme.md               # Project documentation```
+└── readme.md               # Project documentation 
+```
 
 ## Setup
 
